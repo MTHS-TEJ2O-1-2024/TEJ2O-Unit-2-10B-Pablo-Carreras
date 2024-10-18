@@ -2,7 +2,7 @@
  *
  * Created by: Pablo Carreras
  * Created on: Oct 2024
- * This program ...
+ * This program shows how many neopixels 
 */
 
 let neopixelStrip: neopixel.Strip = null
