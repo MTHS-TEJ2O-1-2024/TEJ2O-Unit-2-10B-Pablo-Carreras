@@ -64,7 +64,6 @@ input.onButtonPressed(Button.A, function () {
         neopixelStrip.show()
     }
 
-
     // fourth neopixel 
     if (inputLightLevel > 208) {
         neopixelStrip.setPixelColor(0, neopixel.colors(NeoPixelColors.Red))
